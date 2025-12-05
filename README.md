@@ -1,38 +1,84 @@
-# 👋 Hi, I'm Sahil!
+# 🌟 **Sahil — MERN Stack Developer**
 
-### 🚀 Full Stack Developer (MERN Stack)
+<div align="center">
 
-I enjoy building real-world web applications and solving problems using modern web technologies. I focus on writing clean, structured, and scalable code.
+### 🚀 *Full-Stack Developer (MERN) — Learning, Building & Improving Daily*
 
----
+Passionate about creating real-world web applications, scalable backend systems, and beautiful UI experiences.  
+I love solving problems, exploring modern technologies, and writing clean, maintainable code.
 
-## 🔥 Skills & Tools
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git & GitHub
-- **Other:** REST APIs, JSON, EJS, jQuery
+</div>
 
 ---
 
-## 💼 Projects
-- **Smart Trip Planner** – smart travel planning system  
-- **Hospital Management System** – patient & doctor management  
-- **Movie Ticket Booking System** – user/admin with CRUD  
-- **Mini Projects:** UI components, CSS tasks, jQuery tasks, small JS apps
+# 🧩 **Tech Stack**
+
+### **Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+
+### **Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### **Database**  
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+### **Tools & Others**  
+<img src="https://skillicons.dev/icons?i=git,github,postman" />  
+EJS • REST APIs • JSON • jQuery
 
 ---
 
-## 📊 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilSp&show_icons=true&theme=tokyonight)
+# 🚀 **Featured Projects**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSp&layout=compact&theme=tokyonight)
+### 🔹 **Smart Trip Planner**
+Travel planning system for smarter trips.  
+**Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
+🔗 [*Repo link*](https://github.com/Sahilghoghari07/SmartTrip-Travel-Planner)
+
+---
+
+### 🔹 **Hospital Management System**
+Manages patients, doctors, appointments & admin panel.  
+**Tech:** HTML, CSS, JavaScript, LocalStorage  
+🔗 [*Repo link*](https://github.com/Sahilghoghari07/online-appointment-system)
 
 ---
 
-## 🌐 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/sahil-ghoghari?utm_source=share_via&utm_content=profile&utm_medium=member_android
+### 🔹 **Movie Ticket Booking System**
+Complete user/admin system + CRUD for movies, cinemas & tickets.  
+**Tech:** HTML, CSS, JavaScript, LocalStorage  
+🔗 *Repo link*
 
 ---
+
+### 🔹 **Mini Projects Collection**
+UI components • JavaScript apps • jQuery tasks • CSS challenges  
+🔗 *Check repos*
+[*CSS-Tasks*](https://github.com/Sahilghoghari07/CSS-Tasks)
+[*Bootstrap-Tasks*](https://github.com/Sahilghoghari07/Bootstrap-Tasks)
+[*JavaScript-Projects*](https://github.com/Sahilghoghari07/JavaScript-Projects)
+
+---
+
+# 📈 **GitHub Insights**
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sahilghoghari07&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+# 🌐 **Connect With Me**
+
+### 👉 [**LinkedIn** ](https://www.linkedin.com/in/sahil-ghoghari) 
+
+---
+
+<div align="center">
 
 ⭐ *Thanks for visiting my GitHub profile!*  
+💙 *Keep Coding, Keep Improving.*
+
+</div>
