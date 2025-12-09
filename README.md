@@ -60,16 +60,6 @@ UI components • JavaScript apps • jQuery tasks • CSS challenges
 
 ---
 
-# 📈 **GitHub Insights**
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sahilghoghari07&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
 # 🌐 **Connect With Me**
 
 ### 👉 [**LinkedIn** ](https://www.linkedin.com/in/sahil-ghoghari) 
