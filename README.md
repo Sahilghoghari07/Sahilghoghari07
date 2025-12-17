@@ -44,13 +44,6 @@ Manages patients, doctors, appointments & admin panel.
 
 ---
 
-### 🔹 **Movie Ticket Booking System**
-Complete user/admin system + CRUD for movies, cinemas & tickets.  
-**Tech:** HTML, CSS, JavaScript, LocalStorage  
-🔗 *Repo link*
-
----
-
 ### 🔹 **Mini Projects Collection**
 UI components • JavaScript apps • jQuery tasks • CSS challenges  
 🔗 *Check repos*
