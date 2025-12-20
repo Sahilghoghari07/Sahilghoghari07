@@ -14,7 +14,7 @@ I love solving problems, exploring modern technologies, and writing clean, maint
 # 🧩 **Tech Stack**
 
 ### **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react" />
 
 ### **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -23,8 +23,7 @@ I love solving problems, exploring modern technologies, and writing clean, maint
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### **Tools & Others**  
-<img src="https://skillicons.dev/icons?i=git,github,postman" />  
-EJS • REST APIs • JSON • jQuery
+<img src="https://skillicons.dev/icons?i=git,github,postman" /> 
 
 ---
 
