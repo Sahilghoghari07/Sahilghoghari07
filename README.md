@@ -29,10 +29,10 @@ I love solving problems, exploring modern technologies, and writing clean, maint
 
 # 🚀 **Featured Projects**
 
-### 🔹 **Smart Trip Planner**
+### 🔹 **Trip Planner**
 Travel planning system for smarter trips.  
 **Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
-🔗 [*Repo link*](https://github.com/Sahilghoghari07/SmartTrip-Travel-Planner)
+🔗 [*Repo link*](https://github.com/Sahilghoghari07/Trip-Planner)
 
 ---
 
@@ -49,6 +49,7 @@ UI components • JavaScript apps • jQuery tasks • CSS challenges
 [*CSS-Tasks*](https://github.com/Sahilghoghari07/CSS-Tasks)
 [*Bootstrap-Tasks*](https://github.com/Sahilghoghari07/Bootstrap-Tasks)
 [*JavaScript-Projects*](https://github.com/Sahilghoghari07/JavaScript-Projects)
+[*MERN-Learning*](https://github.com/Sahilghoghari07/mern-learning)
 
 ---
 
