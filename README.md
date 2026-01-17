@@ -13,7 +13,7 @@ I love solving problems, exploring modern technologies, and writing clean, maint
 
 🧩 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,jquery,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,jquery,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,postman,vercel" />
 
 ---
 
