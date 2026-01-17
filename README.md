@@ -1,8 +1,8 @@
-# 🌟 **Sahil — MERN Stack Developer**
+# 🌟 **Sahil - Full Stack Developer**
 
 <div align="center">
 
-### 🚀 *Full-Stack Developer (MERN) — Learning, Building & Improving Daily*
+### 🚀 *Learning, Building & Improving Daily*
 
 Passionate about creating real-world web applications, scalable backend systems, and beautiful UI experiences.  
 I love solving problems, exploring modern technologies, and writing clean, maintainable code.
@@ -11,19 +11,9 @@ I love solving problems, exploring modern technologies, and writing clean, maint
 
 ---
 
-# 🧩 **Tech Stack**
+🧩 **Tech Stack**
 
-### **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react" />
-
-### **Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### **Database**  
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-### **Tools & Others**  
-<img src="https://skillicons.dev/icons?i=git,github,postman" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,jquery,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,postman" />
 
 ---
 
@@ -34,28 +24,19 @@ Travel planning system for smarter trips.
 **Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
 🔗 [*Repo link*](https://github.com/Sahilghoghari07/Trip-Planner)
 
----
 
 ### 🔹 **Hospital Management System**
 Manages patients, doctors, appointments & admin panel.  
-**Tech:** HTML, CSS, JavaScript, LocalStorage  
+**Tech:** HTML, CSS, JavaScript, PHP, mySQL  
 🔗 [*Repo link*](https://github.com/Sahilghoghari07/online-appointment-system)
 
----
 
 ### 🔹 **Mini Projects Collection**
 UI components • JavaScript apps • jQuery tasks • CSS challenges  
-🔗 *Check repos*
-[*CSS-Tasks*](https://github.com/Sahilghoghari07/CSS-Tasks)
+🔗[*CSS-Tasks*](https://github.com/Sahilghoghari07/CSS-Tasks)
 [*Bootstrap-Tasks*](https://github.com/Sahilghoghari07/Bootstrap-Tasks)
 [*JavaScript-Projects*](https://github.com/Sahilghoghari07/JavaScript-Projects)
-[*MERN-Learning*](https://github.com/Sahilghoghari07/mern-learning)
-
----
-
-# 🌐 **Connect With Me**
-
-### 👉 [**LinkedIn** ](https://www.linkedin.com/in/sahil-ghoghari) 
+[*React-Learning*](https://github.com/Sahilghoghari07/React-Learning)
 
 ---
 
